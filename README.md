@@ -2,8 +2,17 @@
 
 Soc un estudiant de 2 de DAM al institut Nicolau Copèrnic.
 
-LLenguatges treballats
--Kotlin
+LLenguatges treballats <br>
+-Kotlin <br>
+-Java <br>
+-Micropython <br>
+-Python <br>
+-JavaScript <br>
+-Php <br>
+-XML <br>
+-XSL <br>
+-CSS <br>
+-HTML <br>
 
 
 
