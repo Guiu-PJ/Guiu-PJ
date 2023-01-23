@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 Soc un estudiant de 2 de DAM al institut Nicolau Copèrnic.
 
