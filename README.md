@@ -2,6 +2,8 @@
 
 Soc un estudiant de 2 de DAM al institut Nicolau Copèrnic.
 
+Com contactar-me: guiup01@gmail.com
+
 LLenguatges treballats <br>
 <div>
   <img src="https://user-images.githubusercontent.com/99869440/213527192-eaf36ee9-a1e0-4966-9919-cbc689eca638.png" title="" alt="" whidth="" height="40" />&nbsp;
@@ -12,19 +14,6 @@ LLenguatges treballats <br>
   <img src="https://user-images.githubusercontent.com/99869440/213528128-ffee009f-177b-4f73-9551-8dca0951cfe0.png" title="" alt="" whidth="" height="40" />&nbsp;
   <img src="https://user-images.githubusercontent.com/99869440/213527669-b5c5dc76-216b-4da5-8ded-3be1421eb056.png" title="" alt="" whidth="" height="40" />&nbsp;
 </div>
-<br>
-
--Kotlin <br>
--Java <br>
--Micropython <br>
--Python <br>
--JavaScript <br>
--Php <br>
--XML <br>
--XSL <br>
--CSS <br>
--HTML <br>
-
 
 
 <!--
