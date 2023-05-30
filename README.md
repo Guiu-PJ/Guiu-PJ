@@ -2,7 +2,7 @@
 
 Soc un estudiant de 2 de DAM al institut Nicolau Copèrnic.
 
-<a href="https://github.com/Guiu-PJ/3D_Game_Unity_The_finger_Hunter">The Finger Hunter</a>
+<a href="https://github.com/Guiu-PJ/3D_Game_Unity_The_finger_Hunter">The Finger Hunter -- Joc fet amb Unity</a>
 
 Com contactar-me: guiup01@gmail.com
 
