@@ -1,6 +1,8 @@
 ### Hola 👋
 
-Soc un estudiant de 2 de DAM al institut Nicolau Copèrnic.
+EL meu nom es Guiu, sóc tecnic superior en desenrotllament d'aplicacions multiplataforma.
+
+Actualment soc un estudiant de 2 de DAW al institut Nicolau Copèrnic.
 
 <a href="https://github.com/Guiu-PJ/3D_Game_Unity_The_finger_Hunter">The Finger Hunter -- Joc fet amb Unity</a>
 <br>
