@@ -9,6 +9,7 @@ Actualment soc un estudiant de 2 de DAW al institut Nicolau Copèrnic.
 <a href="https://github.com/Guiu-PJ/3D_Game_Unity_The_finger_Hunter">BD.H -- ERP feta amb java i Springboot</a>
 
 Com contactar-me: guiup01@gmail.com
+<br>
 <a href="https://drive.google.com/file/d/1D3avTM5xtX0GaoBW9-1VAcLKN4--VQst/view?usp=sharing"> CV</a> 
 
 LLenguatges i tecnologies treballades <br>
